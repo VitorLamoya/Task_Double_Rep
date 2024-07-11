@@ -1,0 +1,4 @@
+2024-07-11 00:38:40,603 - INFO - Starting synchronization from C:\Users\Vitor Lamoya\Desktop\myFolderTest\source to C:\Users\Vitor Lamoya\Desktop\myFolderTest\replica
+2024-07-11 00:38:40,620 - INFO - Copied: C:\Users\Vitor Lamoya\Desktop\myFolderTest\source\teste.py to C:\Users\Vitor Lamoya\Desktop\myFolderTest\replica\teste.py
+2024-07-11 00:39:40,621 - INFO - Starting synchronization from C:\Users\Vitor Lamoya\Desktop\myFolderTest\source to C:\Users\Vitor Lamoya\Desktop\myFolderTest\replica
+2024-07-11 00:39:40,632 - INFO - Copied: C:\Users\Vitor Lamoya\Desktop\myFolderTest\source\teste.py to C:\Users\Vitor Lamoya\Desktop\myFolderTest\replica\teste.py
